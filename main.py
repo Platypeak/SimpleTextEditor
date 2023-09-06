@@ -1,10 +1,9 @@
-# Imports
 import tkinter
 from tkinter import filedialog
 
 def open_file(text):
     file_path = filedialog.askopenfilename()
-    with open(file_path, "r") as file: # mistake happened here
+    with open(file_path, "r") as file:
         text.delete(1.0, tkinter.END)
         text.insert(tkinter.END, file.read())
 
