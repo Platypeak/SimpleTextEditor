@@ -29,7 +29,7 @@ Contributions are welcome! If you'd like to improve this text editor or add new 
 
 ## Support
 
-If you encounter any issues, have questions, or need assistance, please don't hesitate to [open an issue](https://github.com/Platypeak/Python-Text-Editor/issues). We're here to help.
+If you encounter any issues, have questions, or need assistance, please don't hesitate to [open an issue](https://github.com/Platypeak/SimpleTextEditor/issues). We're here to help.
 
 ## License
 
